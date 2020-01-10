@@ -2,7 +2,7 @@
 
 Name:             jtidy
 Version:          1.0
-Release:          0.15.20100930svn1125%{?dist}
+Release:          0.16.20100930svn1125%{?dist}
 Epoch:            2
 Summary:          HTML syntax checker and pretty printer
 License:          zlib
@@ -81,6 +81,9 @@ EOF
 
 
 %changelog
+* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 2:1.0-0.16.20100930svn1125
+- Mass rebuild 2013-12-27
+
 * Fri Jul 12 2013 Mikolaj Izdebski <mizdebsk@redhat.com> - 2:1.0-0.15.20100930svn1125
 - Update to current packaging guidelines
 
